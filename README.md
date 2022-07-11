@@ -1,16 +1,16 @@
-# pro_2
+# Personal Expenses Manager App 
 
-A new Flutter project.
+-Implemented with Flutter and dart
 
-## Getting Started
+-You can add your expenses during a week and a little chart will demonstrate how much money you have spent in each day 
 
-This project is a starting point for a Flutter application.
+Disclaimer : The idea of the project and the orginal code is not mine. I just coded along with a course taught by Maximilian Schwarzmüller on udemy, 
+which you can find a link to it down below : 
 
-A few resources to get you started if this is your first Flutter project:
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are some screenshots of the app : 
+
+
+<img src="./screenshots/first_page_without_transactions.png" width = 250 height = 500>           <img src="./screenshots/adding_transaction.png" width = 250 height = 500>                <img src="./screenshots/first_page_having_a_transaction.png" width = 250 height = 500>       <img src="./screenshots/first_page_having_two_transactions.png" width = 250 height = 500>
